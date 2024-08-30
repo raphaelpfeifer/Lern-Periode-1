@@ -13,10 +13,10 @@
 
 ## 30.8.2024
 
-- [ ] Erstes Arbeitspaket: Ein Eingabebefehl programmieren in C# mit dem Microsoft Visual Studio (Name, Alter usw.)
-- [ ] Die Eingabe Befehle mit "Console.WriteLine" ausgeben lassen
-- [ ] Testen ob alles funktioniert wenn man es in der Konsole öffnet und eventuell noch letzte kleine ànderungen vornehmen
-- [ ] Das fertige Ergebnis einmal durchmachen und testen 
+- [x] Erstes Arbeitspaket: Ein Eingabebefehl programmieren in C# mit dem Microsoft Visual Studio (Name, Alter usw.)
+- [x] Die Eingabe Befehle mit "Console.WriteLine" ausgeben lassen
+- [x] Testen ob alles funktioniert wenn man es in der Konsole öffnet und eventuell noch letzte kleine ànderungen vornehmen
+- [x] Das fertige Ergebnis einmal durchmachen und testen 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
