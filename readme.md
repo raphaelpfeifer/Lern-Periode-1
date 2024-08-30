@@ -18,6 +18,12 @@
 - [x] Testen ob alles funktioniert wenn man es in der Konsole öffnet und eventuell noch letzte kleine ànderungen vornehmen
 - [x] Das fertige Ergebnis einmal durchmachen und testen 
 
+Ich war sehr schnell fertig, darum habe ich mir weiterhin vorgenommen:
+
+- [ ] Vergleich Alter
+- [ ] Vergleich Name
+- [ ] Abfrage Essenpräferenzen
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
