@@ -16,13 +16,21 @@
 - [x] Erstes Arbeitspaket: Ein Eingabebefehl programmieren in C# mit dem Microsoft Visual Studio (Name, Alter usw.)
 - [x] Die Eingabe Befehle mit "Console.WriteLine" ausgeben lassen
 - [x] Testen ob alles funktioniert wenn man es in der Konsole öffnet und eventuell noch letzte kleine ànderungen vornehmen
-- [x] Das fertige Ergebnis einmal durchmachen und testen 
+- [x] Das fertige Ergebnis einmal durchmachen und testen
 
-Ich war sehr schnell fertig, darum habe ich mir weiterhin vorgenommen:
 
-- [ ] Vergleich Alter
-- [ ] Vergleich Name
+
+##
+Heute habe ich eine abfrage zum Namen, dem Alter und anderen sachen probiert zu programmieren und mithilfe eines youtube videos hat das auch sehr gut funktioniert und ich konnte innerhalb der ersten hälfte schon fertig werden. In der zweiten Hälfte habe ich versucht einen Vergleich zu programmieren, das hat aber noch nicht geklappt.
+
+Nächstes mal werde ich nocheinmal probieren einen vergleich zu machen. Zum Beispiel das man schreibt Pizza und das Programm sagt einem dann von wie vielen leuten es das lieblingsessen ist.
+
+
 - [ ] Abfrage Essenpräferenzen
+- [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
+- [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
+- [ ] Code beenden so das Timo es versuchen kann und sieht wie viele Leute das gleiche mögen
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
