@@ -20,17 +20,26 @@
 
 
 
-##
+## 30.8.2024
 Heute habe ich eine abfrage zum Namen, dem Alter und anderen sachen probiert zu programmieren und mithilfe eines youtube videos hat das auch sehr gut funktioniert und ich konnte innerhalb der ersten hälfte schon fertig werden. In der zweiten Hälfte habe ich versucht einen Vergleich zu programmieren, das hat aber noch nicht geklappt.
 
 Nächstes mal werde ich nocheinmal probieren einen vergleich zu machen. Zum Beispiel das man schreibt Pizza und das Programm sagt einem dann von wie vielen leuten es das lieblingsessen ist.
 
 
-- [ ] Abfrage Essenpräferenzen
+- [x] Abfrage Essenpräferenzen
 - [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
 - [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
 - [ ] Code beenden so das Timo es versuchen kann und sieht wie viele Leute das gleiche mögen
 
+## 06.09.2024
+Heute habe ich mit der abfrage zu den essenspräferenzen gestartet und habe es geschafft das der benutzer gefragt wird was sein lieblingsessen ist. Sobald er das geschrieben hat muss er schreiben 'essen' um ihm anzeigen zu lassen von wie vielen Leuten das auch das Lieblingsessen ist. Dadurch kann er sehen ob er ein ''normales'' oder eher aussergewöhnliches Lieblingsessen hat. 
+
+Nächstes mal werde ich mich darauf konzerntrieren das dem Nutzer das richtig angezeigt wird und die Arbeitspakete von heute beenden
+
+- [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
+- [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
+- [ ] Code beenden so das Timo es versuchen kann und sieht wie viele Leute das gleiche mögen
+- [ ] Anfangen zu überlegn was ich für ein neues Projekt starten könnte, bisher keine Ideen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
