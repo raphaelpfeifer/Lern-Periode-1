@@ -36,10 +36,16 @@ Heute habe ich mit der abfrage zu den essenspräferenzen gestartet und habe es g
 
 Nächstes mal werde ich mich darauf konzerntrieren das dem Nutzer das richtig angezeigt wird und die Arbeitspakete von heute beenden
 
-- [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
-- [ ] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
-- [ ] Code beenden so das Timo es versuchen kann und sieht wie viele Leute das gleiche mögen
-- [ ] Anfangen zu überlegn was ich für ein neues Projekt starten könnte, bisher keine Ideen
+- [x] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
+- [x] Einfügen einer Prozentzahl von wie vielen Leuten es das Lieblingsessen ist
+- [x] Code beenden so das Timo es versuchen kann und sieht wie viele Leute das gleiche mögen
+##
+heute habe ich die Zahlen im Internet rausgesucht die ich brauche für meinen Code. Es soll wenn man irgendeine Zahl auf der Tastatur drückt  Zahl drückt, einem anzeigen von wie vielen Personen es das Lieblingsessen ist. Also die Prozentzahl der Leute die es gerne haben. Das werde ich aber erst nächstes mal einfügen können.
+
+- [ ] Zahlen zuende raussuchen und enfangen sie einzeln einzufügen in meinen Code
+- [ ] Die Zahlen einfügen und den Code schreiben damit es die Zahlen anzeigt wenn man etwas drückt
+- [ ] " "
+- [ ] Code beenden und danach schauen wie gut es funktioniert.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
