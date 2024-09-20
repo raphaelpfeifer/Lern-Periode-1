@@ -45,12 +45,17 @@ heute habe ich die Zahlen im Internet rausgesucht die ich brauche für meinen Co
 - [x] Code beenden und danach schauen wie gut es funktioniert.
 
 ## 20.09.2024
-Heute habe ich mein Projekt beendet und es hat funktioniert. Ich habe als erstes die Zahlen die ich brauchd rausgesucht und dann in meinen Code eingefügt. Ich habe die einzelnen Texte noch etwas verändert und dann das Programm in der Konsole einmal durchlaufen lassen. Es hat alles so funktioniert wie ich es wollte.
+Heute habe ich mein Projekt beendet und es hat funktioniert. Ich habe als erstes die Zahlen die ich brauchd rausgesucht und dann in meinen Code eingefügt. Ich habe die einzelnen Texte noch etwas verändert und dann das Programm in der Konsole einmal durchlaufen lassen. Es hat alles so funktioniert wie ich es wollte. 
 
 ## Fertiges Projekt
 
 Das Projekt ist mir insgesamt gut gelungen. Ich habe mit hilfe von ein oder zwei kurzen YouTube Videos angefangen und konnte dadurch herausfinden wie ich Console.WriteLine richtig anwenden kann. Später habe ich durch Modul 319 gelernt wie int, string uns. funktioniert. Diese Befehle habe ich dann auch auf meine Abfrage angewendet. Das fertige Projekt ist jetzt eine Abfrage von Namen, Alter, Lieblingsessen und als letztes zeigt es einem was das Lieblingsessen von den meisten Personen ist. 
+
 ![image](https://github.com/user-attachments/assets/36921850-2748-4a4d-aeef-779a117b2ab7)
+
+## Projejt Reflexion
+
+Ich finde ich habe die meiste Zeit sehr gut gearbeitet. Ich habe mithilfe der YouTube Videos auch gut fortschritt gemacht und bin voran gekommen. Wenn die Leute im Video noch eine zusatzsache gemacht haben oder eine Sache anders habe ich auch probiert es zu verstehen und habe es nachgemacht weil ich es toll fand. 
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
